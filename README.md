@@ -1,8 +1,6 @@
 
 ### Hello world, My name is Richardson 👋
 
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
-[![Discord](https://img.shields.io/discord/697560790839984208?color=blue&label=Discord&logo=Discord&style=for-the-badge)][discord]
 
 ## I'm a Student, Developer, and Businessman
 
