@@ -32,3 +32,9 @@
 [instagram]: https://www.instagram.com/richards0nd/
 [twitch]: https://www.twitch.tv/richards0ndou
 [youtube]: https://www.youtube.com/channel/UC79Z0sEwJHp0vBLbbNqbgtA?view_as=subscriber
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richards0nd&show_icons=true&theme=dark&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richards0nd)](https://github.com/anuraghazra/github-readme-stats)
+
+
