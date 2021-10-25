@@ -35,5 +35,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richards0nd&show_icons=true&theme=dark&count_private=true&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Richards0nd)](https://github.com/anuraghazra/github-readme-stats)
-
