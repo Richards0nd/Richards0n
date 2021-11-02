@@ -1,36 +1,19 @@
-### Hello world, My name is Richardson 👋
+<!-- <p align="center">
+  <img src="https://user-images.githubusercontent.com/42467470/139774174-7aaa9e3a-077b-40cf-964f-12d05a843948.jpg">
+</p>
+ -->
+<h1 align="center">Hi 👋, I'm Richards0n</h1>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Richards0nd&label=Profile%20views&color=0e75b6&style=flat" alt="Richards0nd"></p>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-3/741703546277462167.png" alt="Richards0nd"></p>
+<p align="center"><img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=Richards0nd&theme=dark&date_format=j%2Fn%5B%2FY%5D"/> </p>
+
+<p align="center">
+  <a href="https://github.com/Richards0nd">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Richards0nd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Richards0nd&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  </a>
+</p>
 
 
-## I'm a Student, Developer, and Businessman
-
-- 💡 I'm currently focused on game and webpage development, and FiveM scripting,
-
-### Connect with me:
-
-[<img align="left" alt="Richards0n | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
-[<img align="left" alt="Richards0n | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-[<img align="left" alt="Richards0n | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
-[<img align="left" alt="Richards0n | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
-
-<br>
-<br>
-
-### Languages and Tools:
-
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-
-<br>
-<br>
-
-[discord]: https://discord.gg/pv7cWRr
-[instagram]: https://www.instagram.com/richards0nd/
-[twitch]: https://www.twitch.tv/richards0ndou
-[youtube]: https://www.youtube.com/channel/UC79Z0sEwJHp0vBLbbNqbgtA?view_as=subscriber
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richards0nd&show_icons=true&theme=dark&count_private=true&show_icons=true)
+- 📫 How to reach me: **contato@richardsondouglas.com.br** or on [discord](https://discordapp.com/users/741703546277462167).
